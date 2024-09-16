@@ -37,9 +37,11 @@ And if you installed it system-wide use:
 sudo rm -r /usr/share/icons/Anya-cursors*
 ```
 
-## Licence
+## Credits
 
-GNU General Public Licence v3.0.
+[NOR-DARKSTAR](https://www.gnome-look.org/p/2169016) For linux port.  
+[Rachit-Pal](https://github.com/Rachit-Pal/AnyaCursor) Windows cursor pack (source)
+
 
 
 
