@@ -20,7 +20,7 @@ Then, run the installer script. For local installation, use
 And for system wide installation use:
 ``` 
 sudo ./install.sh
-``
+```
 
 ### Set the cursor theme
 There are various way to set this (or another) cursor theme.</br>
